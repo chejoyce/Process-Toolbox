@@ -1,3 +1,7 @@
+import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
+
 def main():
     st.title("Excel Data Visualizer")
 
